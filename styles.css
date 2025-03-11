@@ -1,42 +1,4 @@
 
-/* Your CSS Code here. */
-body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        
-        .question-container {
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-        
-        h2 {
-            color: #333333;
-            margin-top: 0;
-        }
-        
-        .options {
-            margin: 20px 0;
-        }
-        
-        .option {
-            margin-bottom: 10px;
-        }
-        
-        input[type="radio"] {
-            margin-right: 10px;
-        }
-        
-        label {
-            font-size: 16px;
-        }
-        
         blockquote {
             max-width: 600px;
             margin: 10px;
@@ -44,10 +6,4 @@ body {
             border-left: 8px solid green;
             background-color: #f8fffe;
             font-weight: bold;
-        }
-        
-        .citation {
-            font-style: italic;
-            font-size: 14px;
-            margin-top: 5px;
         }
